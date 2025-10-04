@@ -1,4 +1,4 @@
-Download from Releases on the right.
+
 
 ### **SmartChat - FiveM RP Chat Commands**
 
